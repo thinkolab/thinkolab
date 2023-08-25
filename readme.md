@@ -1,11 +1,14 @@
-<img src="https://raw.githubusercontent.com/Filipe-Bacof/Filipe-Bacof/main/logo-h-white-transparent.png">
+<img src="https://raw.githubusercontent.com/Filipe-Bacof/Filipe-Bacof/main/logo-h-white-transparent.png" alt="Logo da Thinkolab"/>
 
 # Muito prazer! Nós somos a Thinkolab!
 
 ## Nossa Missão:
 
 ```
-"Impulsionar o crescimento e visibilidade das pequenas empresas, para alcançarem todo o seu potencial através de soluções de software inovadoras. Nós acreditamos que a tecnologia bem aplicada pode transformar desafios em oportunidades e alavancar o crescimento e visibilidade de nossos clientes."
+"Impulsionar o crescimento e visibilidade das pequenas empresas, para alcançarem
+todo o seu potencial através de soluções de software inovadoras. Nós acreditamos
+que a tecnologia bem aplicada pode transformar desafios em oportunidades e
+alavancar o crescimento e visibilidade de nossos clientes."
 ```
 
 ## Nossos Valores:
@@ -32,11 +35,9 @@
 
 ## Nosso Time:
 
-<div style="display: flex; flex-direction: column; align-items: start; justify-content: center; gap: 1rem;">
-  <a style="display: flex; align-items: center; justify-content: center; gap: 1rem;" href="https://github.com/mahlignus"><img src="https://avatars.githubusercontent.com/mahlignus" alt="Foto do Rafael" height="50" width="50" /> Rafael Mahl - CEO</a>
-  <a style="display: flex; align-items: center; justify-content: center; gap: 1rem;" href="https://github.com/Filipe-Bacof"><img src="https://avatars.githubusercontent.com/Filipe-Bacof" alt="Foto do Filipe" height="50" width="50" /> Filipe Bacof - CTO</a>
-  <a style="display: flex; align-items: center; justify-content: center; gap: 1rem;" href="https://github.com/mqthiago"><img src="https://avatars.githubusercontent.com/mqthiago" alt="Foto do Thiago" height="50" width="50" /> Thiago Queiroz - Desenvolvedor</a>
-</div>
+- [<img src="https://avatars.githubusercontent.com/mahlignus" alt="Foto do Rafael" height="50" width="50" /> Rafael Mahl - CEO](https://github.com/mahlignus)
+- [<img src="https://avatars.githubusercontent.com/Filipe-Bacof" alt="Foto do Filipe" height="50" width="50" /> Filipe Bacof - CTO](https://github.com/Filipe-Bacof)
+- [<img src="https://avatars.githubusercontent.com/mqthiago" alt="Foto do Thiago" height="50" width="50" /> Thiago Queiroz - Desenvolvedor](https://github.com/mqthiago)
 
 <!--
 ## Identidade Visual:
@@ -47,8 +48,6 @@
 
 - Tipografia:
   - Opte por uma fonte moderna e limpa para o nome da empresa "Thinkolab", com letras arredondadas que remetam à acessibilidade e à informalidade.
-
----- Para usar comentários em MarkDown é igual HTML
 -->
 
 ## Serviços Oferecidos:
