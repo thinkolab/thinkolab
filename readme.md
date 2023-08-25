@@ -3,13 +3,9 @@
 # Muito prazer! Nós somos a Thinkolab!
 
 ## Nossa Missão:
-
-```
-"Impulsionar o crescimento e visibilidade das pequenas empresas, para alcançarem
-todo o seu potencial através de soluções de software inovadoras. Nós acreditamos
-que a tecnologia bem aplicada pode transformar desafios em oportunidades e
-alavancar o crescimento e visibilidade de nossos clientes."
-```
+<blockquote>
+"Impulsionar o crescimento e visibilidade das pequenas empresas, para alcançarem todo o seu potencial através de soluções de software inovadoras. Nós acreditamos que a tecnologia bem aplicada pode transformar desafios em oportunidades e alavancar o crescimento e visibilidade de nossos clientes."
+</blockquote>
 
 ## Nossos Valores:
 
@@ -18,20 +14,18 @@ alavancar o crescimento e visibilidade de nossos clientes."
 - **Inovação**: Valorizamos a inovação como um caminho para enfrentar desafios complexos. Estamos comprometidos em explorar constantemente novas ideias e tecnologias para proporcionar soluções que realmente façam a diferença.
 
 ## Nossa Visão:
-
-```
+<blockquote>
 "Capacitando a Criatividade, Sem Barreiras Técnicas."
-```
+</blockquote>
 
 - Buscamos criar um ambiente onde a criatividade floresça sem ser limitada por barreiras técnicas.
 - Sonhamos com um futuro em que cada pequena empresa possa aproveitar as vantagens da tecnologia sem se preocupar com complexidades técnicas, permitindo que se concentrem no que fazem de melhor.
 - Acrecitamos qualquer bom aprendiz está capacitado para fazer um trabalho tão bom quanto do seu mestre.
 
 ## Slogan:
-
-```
+<blockquote>
 "Impulsionando Pequenos Negócios com Código e Criatividade"
-```
+</blockquote>
 
 ## Nosso Time:
 
