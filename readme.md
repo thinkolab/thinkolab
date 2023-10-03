@@ -31,7 +31,6 @@
 
 - [<img src="https://avatars.githubusercontent.com/mahlignus" alt="Foto do Rafael" height="50" width="50" /> Rafael Mahl - CEO](https://github.com/mahlignus)
 - [<img src="https://avatars.githubusercontent.com/Filipe-Bacof" alt="Foto do Filipe" height="50" width="50" /> Filipe Bacof - CTO](https://github.com/Filipe-Bacof)
-- [<img src="https://avatars.githubusercontent.com/mqthiago" alt="Foto do Thiago" height="50" width="50" /> Thiago Queiroz - Desenvolvedor](https://github.com/mqthiago)
 
 <!--
 ## Identidade Visual:
